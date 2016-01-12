@@ -1,0 +1,12 @@
+{
+  "name": "Chrome Notifications",
+  "short_name": "Chrome Notifications",
+  "icons": [{
+        "src": "/chrome-push-notification/images/icon.png",
+        "sizes": "192x192"
+      }],
+  "start_url": "/chrome-push-notification/",
+  "display": "standalone",
+  "gcm_sender_id": "689513674253",
+  "gcm_user_visible_only": true
+}
